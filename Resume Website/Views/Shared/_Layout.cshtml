@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Resume Website</title>
+
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Resume_Website.styles.css" asp-append-version="true" />
+</head>
+
+<body data-bs-spy="scroll"
+      data-bs-target="#resumeSidebar"
+      data-bs-offset="80"
+      tabindex="0">
+    <!-- Mobile top bar (only shown on small screens) -->
+    <nav class="navbar navbar-light bg-white border-bottom d-md-none">
+        <div class="container-fluid">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Resume_Website</a>
+
+            <button class="btn btn-outline-primary"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#sidebarMenu"
+                    aria-controls="sidebarMenu"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation">
+                ☰ Menu
+            </button>
+        </div>
+    </nav>
+
+    <div class="container-fluid">
+        <div class="row min-vh-100">
+
+            <!-- Sidebar -->
+            <nav id="sidebarMenu"
+                 class="col-12 col-md-3 col-lg-4 bg-light border-end d-md-block collapse">
+                <div class="position-sticky sidebar-sticky p-3">
+
+                    @await Html.PartialAsync("_ProfileCard")
+
+                  @*   <ul class="nav nav-pills flex-column gap-1" id="resumeSidebar">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#summary">Summary</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#experience">Work Experience</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#projects">Projects</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#education">Education</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#skills">Skills</a>
+                        </li>
+                    </ul> *@
+
+                </div>
+            </nav>
+
+
+            <!-- Main content -->
+            <main class="col-12 col-md-9 col-lg-8 px-4 py-3 d-flex flex-column">
+                <div class="flex-grow-1">
+                    @RenderBody()
+                </div>
+
+                <footer class="border-top text-muted py-3 mt-4">
+                    <div>
+                        &copy; 2025 - Resume_Website -
+                        <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                    </div>
+                </footer>
+            </main>
+
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

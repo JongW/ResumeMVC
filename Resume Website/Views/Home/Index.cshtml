@@ -1,0 +1,92 @@
+﻿@model ResumeWebsite.Models.Resume
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container py-4">
+
+    <!-- Professional Summary -->
+    <section id="summary" class="mb-5">
+        <h2>Professional Summary</h2>
+        <p>@Model.ProfessionalSummary</p>
+    </section>
+
+    <!-- Work Experience -->
+    <section id="experience" class="mb-5">
+        <h2>Work Experience</h2>
+
+        @foreach (var job in Model.WorkExperience)
+        {
+            <div class="mb-3">
+                <strong>@job.JobTitle</strong> — @job.Company
+                <div class="text-muted">
+                    @job.EmploymentPeriod.StartYear - @job.EmploymentPeriod.EndYear
+                </div>
+
+                <ul>
+                    @foreach (var r in job.Responsibilities)
+                    {
+                        <li>@r</li>
+                    }
+                </ul>
+            </div>
+        }
+    </section>
+
+    <!-- Projects -->
+    <section id="projects" class="mb-5">
+        <h2>Projects</h2>
+
+        @foreach (var p in Model.Projects)
+        {
+            <div class="mb-3">
+                <strong>@p.ProjectName</strong>
+                <ul>
+                    @foreach (var d in p.Details)
+                    {
+                        <li>@d</li>
+                    }
+                </ul>
+            </div>
+        }
+    </section>
+
+    <!-- Education -->
+    <section id="education" class="mb-5">
+        <h2>Education</h2>
+
+        @foreach (var edu in Model.Education)
+        {
+            <div>
+                <strong>@edu.Institution</strong>
+                <div class="text-muted">
+                    @edu.Degree — @edu.Major
+                </div>
+            </div>
+        }
+    </section>
+
+    <!-- Skills -->
+    <section id="skills" class="mb-5">
+        <h2>Skills</h2>
+
+        <div class="row">
+            @foreach (var category in Model.Skills)
+            {
+                <div class="col-md-6 mb-4">
+                    <h3 class="h5 text-muted">@category.Category</h3>
+
+                    <ul class="mb-0">
+                        @foreach (var skill in category.Items)
+                        {
+                            <li>@skill.Name</li>
+                        }
+                    </ul>
+                </div>
+            }
+        </div>
+    </section>
+
+
+</div>

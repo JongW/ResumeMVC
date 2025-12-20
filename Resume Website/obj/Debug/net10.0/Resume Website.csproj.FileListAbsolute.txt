@@ -1,0 +1,99 @@
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\bin\Debug\net10.0\appsettings.Development.json
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\bin\Debug\net10.0\appsettings.json
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\bin\Debug\net10.0\Resume Website.staticwebassets.runtime.json
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\bin\Debug\net10.0\Resume Website.staticwebassets.endpoints.json
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\bin\Debug\net10.0\Resume Website.exe
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\bin\Debug\net10.0\Resume Website.deps.json
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\bin\Debug\net10.0\Resume Website.runtimeconfig.json
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\bin\Debug\net10.0\Resume Website.dll
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\bin\Debug\net10.0\Resume Website.pdb
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\Resume Website.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\Resume Website.AssemblyInfoInputs.cache
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\Resume Website.AssemblyInfo.cs
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\Resume Website.csproj.CoreCompileInputs.cache
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\Resume Website.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\Resume Website.RazorAssemblyInfo.cache
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\Resume Website.RazorAssemblyInfo.cs
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\scopedcss\bundle\Resume Website.styles.css
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\scopedcss\projectbundle\Resume Website.bundle.scp.css
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\0jpyi1ktzp-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\4mlrugwywb-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\coht15ueeg-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\0ueuj8apdx-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\vw29dvd23w-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\6h1duy810h-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\tfae3d93en-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\z91pahx6ee-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\farozz8djc-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\crogjqctx1-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\ra6srocwrm-{0}-ub07r2b239-ub07r2b239.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\qvckac9tuj-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\hclnknbgca-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\sj6xxa6qhg-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\2l54bhwkh9-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\5vuaffjmyr-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\t51pssc40d-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\fxj35qxaql-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\3qihwflchi-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\qej3t546fg-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\a4j5gyo2n4-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\7lnhmo0eux-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\hjznufsdnb-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\4gcfm7pgbr-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\6onit9hdah-{0}-06098lyss8-06098lyss8.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\9gvpwysbcc-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\w9w0ejtu4c-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\brcrtjnu37-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\fvrtl2fgmj-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\inlpm4pwp2-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\dc1jsmngiq-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\0r0fhuevtc-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\s7s6thpsis-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\nbg65pfwg8-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\agwv7ct14i-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\ujctw879ii-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\bwxg3f12aq-{0}-493y06b0oq-493y06b0oq.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\1hicldf2fo-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\nt7mt4wd38-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\p1crl156za-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\uzscz8ikml-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\2yzsexevmx-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\vuxcc6o7ly-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\4765ga2f1u-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\7x28h194do-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\odem5z1t4z-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\wdiabs1g8o-{0}-47otxtyo56-47otxtyo56.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\lqc1bg96u3-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\hdf9445dc2-{0}-356vix0kms-356vix0kms.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\lenumfdn5h-{0}-83jwlth58m-83jwlth58m.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\gkea9ecqow-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\pqsxnp5wcq-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\evvrtuos1h-{0}-ag7o75518u-ag7o75518u.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\fm52ygeo61-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\9z9g0p015g-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\pphwgcl9s3-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\7okqq8pwr7-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\rfj6f8d1pq-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\qdguth14tw-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\mtw7rly9fn-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\kqouzfjxco-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\fob9xhg7li-{0}-p3j362k91g-p3j362k91g.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\n9bkuhb8f4-{0}-p3j362k91g-p3j362k91g.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\staticwebassets.build.json
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\staticwebassets.development.json
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\swae.build.ex.cache
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\Resume Website.dll
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\refint\Resume Website.dll
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\Resume Website.pdb
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\Resume Website.genruntimeconfig.cache
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\ref\Resume Website.dll
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\bin\Debug\net10.0\Data\resume.json
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\ua7ry83p6q-{0}-7a9j9dmnum-7a9j9dmnum.gz
