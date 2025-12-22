@@ -12,7 +12,7 @@
       "company": "Business NSW",
       "location": "Sydney, Australia",
       "employmentPeriod": {
-        "startYear": 2022,
+        "startYear": "2022",
         "endYear": "Present"
       },
       "jobTitle": "Application Support Analyst - Websites",
@@ -24,6 +24,20 @@
         "Investigated and mitigated production incidents by analysing Azure Front Door, WAF, firewall, and traffic metrics, identifying abnormal traffic spikes, blocked requests, abusive patterns, and backend resource constraints.",
         "Supported backend systems and relational databases by monitoring Azure SQL performance, connection counts, long-running queries, and resource usage, and collaborating with developers to remediate defects and performance bottlenecks.",
         "Managed incident, problem, and change processes in line with ITIL practices, including release coordination, post-incident root cause analysis, knowledgebase updates, security patch validation, and clear customer-facing communication of complex technical issues."
+      ]
+    },
+    {
+      "company": "Government of the Republic of Korea",
+      "location": "Seoul, South Korea",
+      "employmentPeriod": {
+        "startYear": "2017",
+        "endYear": "2019"
+      },
+      "jobTitle": "Social Service Worker (Administrative & Public Service Support)",
+      "responsibilities": [
+        "Provided frontline administrative support for resident-facing public services",
+        "Assisted with civil documentation processing, data entry, and records management",
+        "Collaborated with public servants to ensure accurate, timely service delivery to the community"
       ]
     }
   ],
@@ -53,6 +67,20 @@
         "Led client-facing meetings to gather feedback, prioritize feature requests, and align development milestones with business goals.",
         "Contributed to front-end development using React Native, implementing responsive UI components and seamless navigation for iOS and Android platforms.",
         "Refactored the database schema and optimized queries, improving query performance by 57%, resulting in faster app load times and enhanced user experience."
+      ]
+    },
+    {
+      "projectName": ".Net MVC WebApp",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "C#",
+        ".Net"
+      ],
+      "details": [
+        "Deployment of web application into linux based server",
+        "Domain & SSL management",
+        "Built website using MVC model, easily editable via JSON"
       ]
     }
   ],

@@ -8,13 +8,19 @@
 
     <!-- Professional Summary -->
     <section id="summary" class="mb-5">
-        <h2>Professional Summary</h2>
+        <div class="d-flex align-items-center gap-3 border-bottom border-secondary">
+            <i class="bi bi-person fs-2 m-0"></i>
+            <h2 class="m-0">Professional Summary</h2>
+        </div>
         <p>@Model.ProfessionalSummary</p>
     </section>
 
     <!-- Work Experience -->
     <section id="experience" class="mb-5">
-        <h2>Work Experience</h2>
+        <div class="d-flex align-items-center gap-3 border-bottom border-secondary">
+            <i class="bi bi-suitcase-lg fs-2 m-0"></i>
+            <h2>Work Experience</h2>
+        </div>
 
         @foreach (var job in Model.WorkExperience)
         {
@@ -36,8 +42,10 @@
 
     <!-- Projects -->
     <section id="projects" class="mb-5">
-        <h2>Projects</h2>
-
+        <div class="d-flex align-items-center gap-3 border-bottom border-secondary">
+            <i class="bi bi-card-checklist fs-2 m-0"></i>
+             <h2>Projects</h2>
+        </div>
         @foreach (var p in Model.Projects)
         {
             <div class="mb-3">
@@ -54,8 +62,10 @@
 
     <!-- Education -->
     <section id="education" class="mb-5">
-        <h2>Education</h2>
-
+        <div class="d-flex align-items-center gap-3 border-bottom border-secondary">
+            <i class="bi bi-mortarboard fs-2 m-0"></i>
+            <h2>Education</h2>
+        </div>
         @foreach (var edu in Model.Education)
         {
             <div>
@@ -69,8 +79,10 @@
 
     <!-- Skills -->
     <section id="skills" class="mb-5">
-        <h2>Skills</h2>
-
+        <div class="d-flex align-items-center gap-3 border-bottom border-secondary">
+            <i class="bi bi-pin-angle fs-2 m-0"></i>
+            <h2>Skills</h2>
+        </div>
         <div class="row">
             @foreach (var category in Model.Skills)
             {

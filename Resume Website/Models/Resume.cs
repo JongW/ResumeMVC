@@ -64,7 +64,7 @@ namespace ResumeWebsite.Models
     {
         // Start year is an int in your JSON
         [JsonPropertyName("startYear")]
-        public int StartYear { get; set; }
+        public string StartYear { get; set; }
 
         // End year can be "Present" or a year, so model as string
         [JsonPropertyName("endYear")]

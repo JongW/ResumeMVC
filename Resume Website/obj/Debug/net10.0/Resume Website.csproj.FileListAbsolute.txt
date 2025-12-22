@@ -96,4 +96,5 @@ D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\ob
 D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\Resume Website.genruntimeconfig.cache
 D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\ref\Resume Website.dll
 D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\bin\Debug\net10.0\Data\resume.json
-D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\ua7ry83p6q-{0}-7a9j9dmnum-7a9j9dmnum.gz
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\Resume Website.sourcelink.json
+D:\Documents\Jong\Personal\Programming projects\Resume Website\Resume Website\obj\Debug\net10.0\compressed\ua7ry83p6q-{0}-xk5thaxv99-xk5thaxv99.gz

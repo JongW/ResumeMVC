@@ -8,14 +8,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\images\JongWoongTo-CV.pdf" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Data\Files\" />
   </ItemGroup>
 
 	<ItemGroup>
-		<Folder Include="wwwroot\images\" />
-	</ItemGroup>
-
-	<ItemGroup>
+	  <None Include="wwwroot\images\JongWoongTo-CV.pdf" />
 	  <None Include="wwwroot\images\profile.jpg" />
 	</ItemGroup>
 	

@@ -9,13 +9,15 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Resume_Website.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
 </head>
 
 <body data-bs-spy="scroll"
       data-bs-target="#resumeSidebar"
       data-bs-offset="80"
       tabindex="0">
-    <!-- Mobile top bar (only shown on small screens) -->
+    @* <!-- Mobile top bar (only shown on small screens) -->
     <nav class="navbar navbar-light bg-white border-bottom d-md-none">
         <div class="container-fluid">
             <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Resume_Website</a>
@@ -30,42 +32,27 @@
                 ☰ Menu
             </button>
         </div>
-    </nav>
+    </nav> *@
 
     <div class="container-fluid">
-        <div class="row min-vh-100">
+        <div class="row min-vh-100 justify-content-center">
 
             <!-- Sidebar -->
             <nav id="sidebarMenu"
-                 class="col-12 col-md-3 col-lg-4 bg-light border-end d-md-block collapse">
+                 class="col-12 col-md-3 col-lg-4 p-0 bg-light border-end d-lg-block collapse">
                 <div class="position-sticky sidebar-sticky p-3">
-
-                    @await Html.PartialAsync("_ProfileCard")
-
-                  @*   <ul class="nav nav-pills flex-column gap-1" id="resumeSidebar">
-                        <li class="nav-item">
-                            <a class="nav-link" href="#summary">Summary</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#experience">Work Experience</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#projects">Projects</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#education">Education</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#skills">Skills</a>
-                        </li>
-                    </ul> *@
-
+                    @await Html.PartialAsync("_Profile")
                 </div>
             </nav>
 
 
             <!-- Main content -->
             <main class="col-12 col-md-9 col-lg-8 px-4 py-3 d-flex flex-column">
+
+                <div class="d-lg-none mb-4">
+                    @await Html.PartialAsync("_Profile")
+                </div>
+
                 <div class="flex-grow-1">
                     @RenderBody()
                 </div>

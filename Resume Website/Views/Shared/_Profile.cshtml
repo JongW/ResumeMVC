@@ -1,0 +1,67 @@
+﻿<div class="card shadow-lg mx-auto overflow-hidden profile-card">
+    @* Header Background *@
+    <div class="profile-header"></div>
+
+    @* Profile Content *@
+    <div class="px-4 px-md-5 pb-4 pb-md-5">
+
+        @* Profile Photo *@
+        <div class="d-flex justify-content-center profile-avatar-wrap">
+            <div class="position-relative">
+                <img src="~/images/profile.jpg"
+                     alt="Profile"
+                     class="profile-avatar img-fluid" />
+
+            </div>
+        </div>
+
+        @* Name and Title *@
+        <div class="text-center mb-4">
+            <h2 class="h4 text-dark mb-1">Jong Woong To</h2>
+            <p class="text-secondary mb-2">Application Support Engineer</p>
+
+            <div class="d-flex align-items-center justify-content-center gap-2 text-secondary">
+                <i class="bi bi-geo-alt"></i>
+                <span class="small">Meadowbank, NSW</span>
+            </div>
+        </div>
+
+        @* Bio *@
+        <p class="text-center text-secondary mb-4">
+            Application Support Engineer nearing 4 years of experience supporting Azure-hosted, public-facing SaaS platforms.
+        </p>
+
+        @* Social Links - Circular Buttons *@
+        <div class="d-flex justify-content-center gap-3 mb-4">
+            <a href="http://www.linkedin.com/in/jong-to"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="btn btn-primary rounded-circle d-flex align-items-center justify-content-center social-btn"
+               aria-label="LinkedIn">
+                <i class="bi bi-linkedin"></i>
+            </a>
+
+            <a href="https://github.com/JongW"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="btn btn-dark rounded-circle d-flex align-items-center justify-content-center social-btn"
+               aria-label="GitHub">
+                <i class="bi bi-github"></i>
+            </a>
+
+            <a href="mailto:jongwoong.to@gmail.com"
+               class="btn btn-secondary rounded-circle d-flex align-items-center justify-content-center social-btn"
+               aria-label="Email">
+                <i class="bi bi-envelope-fill"></i>
+            </a>
+        </div>
+
+        @* Download Resume Button - Rectangle *@
+        <a href="~/images/JongWoongTo-CV.pdf"
+           class="btn w-100 text-white d-flex align-items-center justify-content-center gap-2 profile-download-btn"
+           download>
+            <i class="bi bi-download"></i>
+            <span>Download CV</span>
+        </a>
+    </div>
+</div>
