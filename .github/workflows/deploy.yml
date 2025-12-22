@@ -14,8 +14,11 @@ jobs:
 
       - name: Publish self-contained (linux-x64)
         run: |
+          echo "removinng existing temp"
           rm -rf /tmp/resumewebsite_publish
+          echo "attempting publish"
           dotnet publish -c Release -r linux-x64 --self-contained true -o /tmp/resumewebsite_publish
+          echo "publish successful"
 
       - name: Deploy (swap + restart)
         run: |
