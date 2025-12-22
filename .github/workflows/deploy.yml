@@ -14,6 +14,7 @@ jobs:
 
       - name: Publish self-contained (linux-x64)
         run: |
+          echo "Running as user: $(whoami)"
           echo "removinng existing temp"
           rm -rf /tmp/resumewebsite_publish
           echo "attempting publish"
