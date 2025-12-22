@@ -1,0 +1,120 @@
+html {
+    font-size: 14px;
+    scroll-behavior: smooth;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+/*body {
+  margin-bottom: 60px;
+}*/
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+/* Keep sidebar anchored */
+.sidebar-sticky {
+    position: sticky;
+    top: 0; /* stick to top of viewport */
+    height: 100vh; /* full viewport height */
+    overflow-y: auto; /* scroll inside sidebar if needed */
+}
+
+/* Active nav styling */
+.nav-pills .nav-link.active {
+    background-color: #0d6efd;
+    color: #fff;
+}
+
+/* Offset anchor headings so they don't hide under navbar */
+section {
+    scroll-margin-top: 90px;
+}
+
+
+/* Profile */
+/*.profile-card {
+    border-radius: 1rem;
+}
+
+.profile-avatar {
+    width: 100%;
+    max-width: 250px;*/ /* desktop size */
+    /*aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #e9ecef;
+}
+
+.profile-card:hover {
+    transform: translateY(-2px);
+    transition: 0.2s ease;
+}*/
+
+/* Card header gradient */
+.profile-header {
+    height: 8rem;
+    background: linear-gradient(90deg, #3b82f6, #a855f7, #ec4899);
+}
+
+/* Pull avatar upward to overlap header */
+.profile-avatar-wrap {
+    margin-top: -4rem;
+    margin-bottom: 1rem;
+}
+
+/* Responsive avatar */
+.profile-avatar {
+    width: 100%;
+    max-width: 250px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid #fff;
+    box-shadow: 0 1rem 2rem rgba(0,0,0,.15);
+}
+
+/* Social circle buttons */
+.social-btn {
+    width: 48px;
+    height: 48px;
+    padding: 0;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+}
+
+/* Gradient download button */
+.profile-download-btn {
+    padding: .75rem 1rem;
+    border: 0;
+    border-radius: .75rem;
+    background: linear-gradient(90deg, #3b82f6, #a855f7, #ec4899);
+}
+
+    .profile-download-btn:hover {
+        filter: brightness(0.95);
+        box-shadow: 0 .75rem 1.25rem rgba(0,0,0,.15);
+    }
+
+.content-wrap {
+    width: 100%;
+    max-width: 900px; /* 850–960px is ideal for resumes */
+}

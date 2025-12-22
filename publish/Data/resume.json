@@ -1,0 +1,158 @@
+{
+  "personalDetails": {
+    "fullName": "Jong Woong To",
+    "phone": "+61 4 2467 0042",
+    "email": "jongwoong.to@gmail.com",
+    "github": "https://github.com/JongW",
+    "location": "Meadowbank, NSW 2114"
+  },
+  "professionalSummary": "Application Support Engineer nearing 4 years of hands-on experience supporting and troubleshooting large-scale, public-facing SaaS and web platforms hosted on Azure. Strong background in incident, problem, and change management, log analysis, and deep technical troubleshooting across the full web application stack. Proven ability to work directly with high-value stakeholders, external vendors, and developers to resolve complex production issues.",
+  "workExperience": [
+    {
+      "company": "Business NSW",
+      "location": "Sydney, Australia",
+      "employmentPeriod": {
+        "startYear": "2022",
+        "endYear": "Present"
+      },
+      "jobTitle": "Application Support Analyst - Websites",
+      "responsibilities": [
+        "Provided Tier 2/3 application support for 18 public-facing, high-traffic SaaS-style web platforms, resolving complex availability, performance, UI, and integration issues while working directly with business stakeholders, developers, and external vendors.",
+        "Diagnosed complex application issues end-to-end by analysing browser developer tools, HTTP requests, log files, and backend telemetry, and reviewing C#/.NET application code to identify defects across frontend (HTML/CSS/JavaScript), APIs, workflow automation, and relational databases.",
+        "Performed deep log analysis and debugging using Azure Application Insights, API Management logs, Logic App run histories, and custom KQL queries.",
+        "Monitored and analysed WAF, firewall, and HTTP access logs using KQL to identify anomalous traffic patterns, blocked requests, and potentially malicious IP activity.",
+        "Investigated and mitigated production incidents by analysing Azure Front Door, WAF, firewall, and traffic metrics, identifying abnormal traffic spikes, blocked requests, abusive patterns, and backend resource constraints.",
+        "Supported backend systems and relational databases by monitoring Azure SQL performance, connection counts, long-running queries, and resource usage, and collaborating with developers to remediate defects and performance bottlenecks.",
+        "Managed incident, problem, and change processes in line with ITIL practices, including release coordination, post-incident root cause analysis, knowledgebase updates, security patch validation, and clear customer-facing communication of complex technical issues."
+      ]
+    },
+    {
+      "company": "Government of the Republic of Korea",
+      "location": "Seoul, South Korea",
+      "employmentPeriod": {
+        "startYear": "2017",
+        "endYear": "2019"
+      },
+      "jobTitle": "Social Service Worker (Administrative & Public Service Support)",
+      "responsibilities": [
+        "Provided frontline administrative support for resident-facing public services",
+        "Assisted with civil documentation processing, data entry, and records management",
+        "Collaborated with public servants to ensure accurate, timely service delivery to the community"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "projectName": "IaaS to PaaS Website Migration",
+      "category": "Azure Infrastructure",
+      "details": [
+        "Planned and executed migration of on-premises and VM-hosted web applications to Azure PaaS, reducing infrastructure management overhead and improving scalability.",
+        "Configured and deployed Azure Web Apps and Azure SQL Database, ensuring high availability, performance, and secure connectivity.",
+        "Performed database import and export using SSMS, maintaining data integrity and minimizing downtime during migration.",
+        "Updated networking components on Azure, including DNS, Front Door, and internal domain controllers, to ensure seamless routing, security, and connectivity for internal and external users."
+      ]
+    },
+    {
+      "projectName": "Android Mobile Application",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "ReactJS",
+        "React Native",
+        "Jira",
+        "SQL"
+      ],
+      "details": [
+        "Worked in weekly Agile sprints, leading scrum meetings to define agendas, track progress, and assign action items, ensuring timely delivery of features.",
+        "Led client-facing meetings to gather feedback, prioritize feature requests, and align development milestones with business goals.",
+        "Contributed to front-end development using React Native, implementing responsive UI components and seamless navigation for iOS and Android platforms.",
+        "Refactored the database schema and optimized queries, improving query performance by 57%, resulting in faster app load times and enhanced user experience."
+      ]
+    },
+    {
+      "projectName": ".Net MVC WebApp",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "C#",
+        ".Net"
+      ],
+      "details": [
+        "Deployment of web application into linux based server",
+        "Domain & SSL management",
+        "Built website using MVC model, easily editable via JSON"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Sydney",
+      "location": "Sydney, Australia",
+      "degree": "Bachelor of Computer Science and Technology",
+      "major": "Computer Science",
+      "studyPeriod": {
+        "startYear": 2016,
+        "endYear": 2021
+      }
+    }
+  ],
+  "skills": [
+    {
+      "category": "Application Support",
+      "items": [
+        { "name": "Tier 2/3 support" },
+        { "name": "Incident management" },
+        { "name": "Problem management" },
+        { "name": "Change management" },
+        { "name": "ServiceNow" }
+      ]
+    },
+    {
+      "category": "Troubleshooting & Debugging",
+      "items": [
+        { "name": "Log analysis" },
+        { "name": "Root cause analysis" },
+        { "name": "KQL querying" },
+        { "name": "Request tracing" },
+        { "name": "Load testing" },
+        { "name": "Postman" }
+      ]
+    },
+    {
+      "category": "Web & SaaS Technologies",
+      "items": [
+        { "name": "Web application stack" },
+        { "name": "REST APIs" },
+        { "name": "SaaS platforms" },
+        { "name": "Performance monitoring" }
+      ]
+    },
+    {
+      "category": "Backend Development",
+      "items": [
+        { "name": "C#/.NET analysis" },
+        { "name": "Java OOP" },
+        { "name": "Code debugging" },
+        { "name": "API troubleshooting" }
+      ]
+    },
+    {
+      "category": "Cloud & Infrastructure",
+      "items": [
+        { "name": "Azure Web Apps" },
+        { "name": "Azure SQL" },
+        { "name": "Azure APIM" },
+        { "name": "Azure Front Door" }
+      ]
+    },
+    {
+      "category": "Database Technologies",
+      "items": [
+        { "name": "SQL Server" },
+        { "name": "Query optimization" },
+        { "name": "Connection monitoring" },
+        { "name": "Data migrations" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+name: Deploy .NET 10 Self-Contained (Private Server)
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET 10
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+
+      - name: Publish self-contained (linux-x64)
+        run: |
+          rm -rf /tmp/resumewebsite_publish
+          dotnet publish -c Release -r linux-x64 --self-contained true -o /tmp/resumewebsite_publish
+
+      - name: Deploy (swap + restart)
+        run: |
+          sudo mkdir -p /var/www/resumewebsite/ResumeWebsite
+          sudo chown -R deploy:deploy /var/www/resumewebsite/ResumeWebsite
+
+          sudo systemctl stop resumewebsite
+          sudo rsync -a --delete /tmp/resumewebsite_publish/ /var/www/resumewebsite/ResumeWebsite
+          sudo chmod +x /var/www/resumewebsite/ResumeWebsite* || true
+          sudo systemctl start resumewebsite
+
+      - name: Status
+        run: sudo systemctl --no-pager status resumewebsite
