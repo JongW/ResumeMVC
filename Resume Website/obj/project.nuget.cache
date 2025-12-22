@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6DwMrFqdj1E=",
+  "dgSpecHash": "eCOoN1pUgds=",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Jong\\Personal\\Programming projects\\Resume Website\\Resume Website\\Resume Website.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\jwto1\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\10.0.1\\microsoft.netcore.app.runtime.linux-x64.10.0.1.nupkg.sha512",
-    "C:\\Users\\jwto1\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\10.0.1\\microsoft.aspnetcore.app.runtime.linux-x64.10.0.1.nupkg.sha512",
-    "C:\\Users\\jwto1\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\10.0.1\\microsoft.netcore.app.host.linux-x64.10.0.1.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Documents\\Jong\\Personal\\Programming projects\\Resume Website\\Resume Website\\ResumeWebsite.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -24,7 +24,7 @@ jobs:
 
           sudo systemctl stop resumewebsite
           sudo rsync -a --delete /tmp/resumewebsite_publish/ /var/www/resumewebsite/ResumeWebsite
-          sudo chmod +x /var/www/resumewebsite/ResumeWebsite* || true
+          sudo chmod +x /var/www/resumewebsite/ResumeWebsite/ResumeWebsite || true
           sudo systemctl start resumewebsite
 
       - name: Status

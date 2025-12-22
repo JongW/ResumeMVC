@@ -1,8 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {},
-    "net10.0/linux-x64": {}
+    "net10.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
@@ -15,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Jong\\Personal\\Programming projects\\Resume Website\\Resume Website\\Resume Website.csproj",
-      "projectName": "Resume Website",
-      "projectPath": "D:\\Documents\\Jong\\Personal\\Programming projects\\Resume Website\\Resume Website\\Resume Website.csproj",
+      "projectUniqueName": "D:\\Documents\\Jong\\Personal\\Programming projects\\Resume Website\\Resume Website\\ResumeWebsite.csproj",
+      "projectName": "ResumeWebsite",
+      "projectPath": "D:\\Documents\\Jong\\Personal\\Programming projects\\Resume Website\\Resume Website\\ResumeWebsite.csproj",
       "packagesPath": "C:\\Users\\jwto1\\.nuget\\packages\\",
       "outputPath": "D:\\Documents\\Jong\\Personal\\Programming projects\\Resume Website\\Resume Website\\obj\\",
       "projectStyle": "PackageReference",
@@ -68,20 +67,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-            "version": "[10.0.1, 10.0.1]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[10.0.1, 10.0.1]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Runtime.linux-x64",
-            "version": "[10.0.1, 10.0.1]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -505,11 +490,6 @@
           "System.Xml.XPath": "(,4.3.32767]",
           "System.Xml.XPath.XDocument": "(,5.0.32767]"
         }
-      }
-    },
-    "runtimes": {
-      "linux-x64": {
-        "#import": []
       }
     }
   }
