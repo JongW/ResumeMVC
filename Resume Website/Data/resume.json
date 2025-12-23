@@ -1,6 +1,6 @@
 {
   "personalDetails": {
-    "fullName": "Jong Woong TT",
+    "fullName": "Jong Woong To",
     "phone": "+61 4 2467 0042",
     "email": "jongwoong.to@gmail.com",
     "github": "https://github.com/JongW",
@@ -55,8 +55,7 @@
     {
       "projectName": "Android Mobile Application",
       "technologies": [
-        "HTML",
-        "CSS",
+        "HTML/CSS",
         "ReactJS",
         "React Native",
         "Jira",
@@ -72,15 +71,17 @@
     {
       "projectName": ".Net MVC WebApp",
       "technologies": [
-        "HTML",
-        "CSS",
+        "HTML/CSS",
         "C#",
-        ".Net"
+        ".Net",
+        "Cloudflare",
+        "Unix"
       ],
       "details": [
-        "Deployment of web application into linux based server",
-        "Domain & SSL management",
-        "Built website using MVC model, easily editable via JSON"
+        "Built and deployed a production-ready Linux (Debian) web server hosting a self-contained ASP.NET MVC application.",
+        "Developed a C#/.NET MVC web application, implementing controllers, views, routing, and environment-based configuration.",
+        "Implemented secure zero-trust external access using Cloudflare Tunnel, eliminating the need for public IP exposure or port forwarding.",
+        "Designed and implemented a CI/CD pipeline using GitHub Actions with a self-hosted runner to automate build, publish, and service restarts."
       ]
     }
   ],

@@ -55,8 +55,7 @@
     {
       "projectName": "Android Mobile Application",
       "technologies": [
-        "HTML",
-        "CSS",
+        "HTML/CSS",
         "ReactJS",
         "React Native",
         "Jira",
@@ -66,21 +65,23 @@
         "Worked in weekly Agile sprints, leading scrum meetings to define agendas, track progress, and assign action items, ensuring timely delivery of features.",
         "Led client-facing meetings to gather feedback, prioritize feature requests, and align development milestones with business goals.",
         "Contributed to front-end development using React Native, implementing responsive UI components and seamless navigation for iOS and Android platforms.",
-        "Refactored the database schema and optimized queries, improving query performance by 57%, resulting in faster app load times and enhanced user experience."
+        "Refactored the database schema and optimized queries, improving query performance by 57%, resulting in faster app load times and enhanced user experience."  
       ]
     },
     {
       "projectName": ".Net MVC WebApp",
       "technologies": [
-        "HTML",
-        "CSS",
+        "HTML/CSS",
         "C#",
-        ".Net"
+        ".Net",
+        "Cloudflare",
+        "Unix"
       ],
       "details": [
-        "Deployment of web application into linux based server",
-        "Domain & SSL management",
-        "Built website using MVC model, easily editable via JSON"
+        "Built and deployed a production-ready Linux (Debian) web server hosting a self-contained ASP.NET MVC application.",
+        "Developed a C#/.NET MVC web application, implementing controllers, views, routing, and environment-based configuration.",
+        "Implemented secure zero-trust external access using Cloudflare Tunnel, eliminating the need for public IP exposure or port forwarding.",
+        "Designed and implemented a CI/CD pipeline using GitHub Actions with a self-hosted runner to automate build, publish, and service restarts."
       ]
     }
   ],
