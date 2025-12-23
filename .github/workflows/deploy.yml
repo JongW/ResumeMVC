@@ -18,7 +18,7 @@ jobs:
           echo "removinng existing temp"
           rm -rf /tmp/resumewebsite_publish
           echo "attempting publish"
-          dotnet publish -c Release -r linux-x64 --self-contained true -o /tmp/resumewebsite_publish
+          /home/deploy/.dotnet/dotnet publish -c Release -r linux-x64 --self-contained true -o /tmp/resumewebsite_publish
           echo "publish successful"
 
       - name: Deploy (swap + restart)
